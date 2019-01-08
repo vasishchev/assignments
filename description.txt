@@ -1,0 +1,1 @@
+This output shows all the food and beverage transactions of over $10,000. Only four large events qualified over the period covered in the dataset.

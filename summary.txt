@@ -1,0 +1,163 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         2
+	Longest value:         7 characters
+	Most common values:    None (4x)
+	                       B001270 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         29 characters
+	Most common values:    NEW MEMBER ORIENTATION (2x)
+	                       OFFICE OF THE SPEAKER (1x)
+	                       OFFICE OF THE MINORITY LEADER (1x)
+	                       HON. KAREN BASS (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (5x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         28 characters
+	Most common values:    GENERAL EXPENDITURES (2x)
+	                       NEW MEMBERS ORIENTATION (2x)
+	                       OFFICIAL EXPENSES OF MEMBERS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         22 characters
+	Most common values:    SUPPLIES AND MATERIALS (5x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        2017-01-05
+	Largest value:         2017-03-17
+	Most common values:    2017-03-17 (1x)
+	                       2017-03-07 (1x)
+	                       2017-01-11 (1x)
+	                       2017-02-14 (1x)
+	                       2017-01-05 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (5x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         8 characters
+	Most common values:    E0495669 (1x)
+	                       E0492360 (1x)
+	                       E0474248 (1x)
+	                       E0486132 (1x)
+	                       E0473623 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         31 characters
+	Most common values:    DESIGN CUISINE (2x)
+	                       OCCASIONS CATERERS INC (2x)
+	                       DOUBLETREE LOS ANGELES WESTSIDE (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2016-11-15
+	Largest value:         2017-01-03
+	Most common values:    2016-11-15 (2x)
+	                       2016-11-30 (1x)
+	                       2017-01-03 (1x)
+	                       2016-12-18 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2016-11-15
+	Largest value:         2017-01-03
+	Most common values:    2016-11-15 (2x)
+	                       2016-11-30 (1x)
+	                       2017-01-03 (1x)
+	                       2016-12-18 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         15 characters
+	Most common values:    FOOD & BEVERAGE (5x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         5
+	Smallest value:        11,957.63
+	Largest value:         19,135
+	Sum:                   74,655.33
+	Mean:                  14,931.066
+	Median:                13,624
+	StDev:                 2,986.66
+	Most common values:    13,624 (1x)
+	                       16,900 (1x)
+	                       19,135 (1x)
+	                       13,038.7 (1x)
+	                       11,957.63 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   10,081
+	Mean:                  2,016.2
+	Median:                2,016
+	StDev:                 0.447
+	Most common values:    2,016 (4x)
+	                       2,017 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         31 characters
+	Most common values:    DESIGN CUISINE (2x)
+	                       OCCASIONS CATERERS INC (2x)
+	                       DOUBLETREE LOS ANGELES WESTSIDE (1x)
+
+Row count: 5
