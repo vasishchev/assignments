@@ -10,6 +10,12 @@ def subtract(a,b):
 def divide(a,b):
     return a / b
 
-print("I'm going use the calculator functions to divide 9 by 3")
-x = divide(9,3)
+def square(a):
+    return a ** 2   
+
+def cube(a):
+	return a ** 3   
+
+print("I'm going use the calculator to raise 9 to the power of 3")
+x = cube(9)
 print(x)
