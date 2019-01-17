@@ -14,7 +14,7 @@ import csv
 with open('vegetables.csv', 'w') as f:
 	writer = csv.writer(f)
 	#write header
-	writer.writerow(['name', 'color'])
+	writer.writerow(['name', 'color', 'length_of_name'])
 
 	#loop through each vegetable
 	for vegetable in vegetables:
