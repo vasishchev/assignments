@@ -1,4 +1,4 @@
-# Sarah and Dima
+# Authors: Sarah and Dima
 
 # Read vegetables.csv into a variable called vegetables.
 
